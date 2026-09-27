@@ -1,4 +1,4 @@
-<a href="https://www.senshicore.com/"><img src="assets/header.jpg" alt="Senshi Kabai — Product Builder : j'expérimente une nouvelle façon de construire des produits" width="100%"></a>
+<a href="https://www.senshicore.com/"><img src="assets/header.jpg" alt="senshi.core — Senshi Kabai, Product Builder : j'expérimente une nouvelle façon de construire des produits" width="100%"></a>
 
 <p>
   <a href="https://www.senshicore.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-senshicore.com-0b0b0f?style=for-the-badge&labelColor=0b0b0f"></a>
@@ -47,4 +47,4 @@
 
 Je raconte les avancées, les choix et les ratés dans le [carnet de bord](https://www.senshicore.com/journal/) ([RSS](https://www.senshicore.com/feed.xml)). Une critique, une idée, un problème qui mériterait son outil ? Les commentaires sont ouverts sous chaque billet.
 
-<sub>© 2026 Senshi Kabai · Les dépôts publics sont publiés pour consultation, tous droits réservés.</sub>
+<sub>© 2026 Senshi Kabai · senshi.core · Les dépôts publics sont publiés pour consultation, tous droits réservés.</sub>
