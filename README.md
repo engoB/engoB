@@ -1,4 +1,4 @@
-<a href="https://www.senshicore.com/"><img src="assets/header.jpg" alt="senshi.core — Senshi Kabai, Product Builder : j'expérimente une nouvelle façon de construire des produits" width="100%"></a>
+<a href="https://www.senshicore.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header.jpg"><img src="assets/header-light.jpg" alt="senshi.core — Senshi Kabai, Product Builder : j'expérimente une nouvelle façon de construire des produits" width="100%"></picture></a>
 
 <p>
   <a href="https://www.senshicore.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-senshicore.com-0b0b0f?style=for-the-badge&labelColor=0b0b0f"></a>
